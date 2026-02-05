@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeevitha J</h1>
-<h3 align="center">Python | Data Science & AI/ML | SQL </h3>
+<h3 align="center">Python | Java | SQL </h3>
 
 ---
 ![Fun GIF](https://camo.githubusercontent.com/c46023053827704d020ebafaa36de44fce750dc609e92e8e5b166ad46cd3a60b/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66632f37312f36332f66633731363335633766316230396564333034313366353962623734393538322e676966)
@@ -35,7 +35,6 @@
 ---
 
 ### 📌 Pinned Projects
-- 🧠 Brain Tumor Detection with data agumentation
 - 🧾 Voice System Control
 - 📊 Attendance Monitoring System
 
